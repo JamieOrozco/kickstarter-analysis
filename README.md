@@ -10,7 +10,7 @@ The key benefit of this analysis is to uncover trends to successful funding goal
 ### Analysis of Outcomes Based on Launch Date
 The launch date analysis shows that there were far more successful campaigns that unsuccessful ones. The most successful launch month was May there was a sharp decline in successful campaigns from November to December. This data suggests that December is the worst month for launching a Kickstarter campaign for the Theater category.
 
-![Outcomes Based on Launch](https://user-images.githubusercontent.com/95591222/146709863-617db750-1626-4c4a-8e72-ae6acde3873f.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95591222/146710011-42ba7abb-0db4-4c44-8f5e-5dd29579a75f.png)
  
 ### Analysis of Outcomes Based on Goals
 The goal analysis shows us that there is a higher likelihood of success if the fundraising goal is under $5,000. The highest percentage of success at 76% were goals under $1,000. The $15,000-$19,999 mark is the range that starts to have 50% likelihood of success.
