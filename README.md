@@ -1,4 +1,6 @@
 # kickstarter-analysis
-#test that this works:
-I have no idea what Im doing
-[![Outcomes Based on Launch](https://user-images.githubusercontent.com/95591222/146701706-5620bc71-fe46-4bb9-85dc-1c0d4a32b019.png)}
+# Kickstarting with Excel
+
+## Overview of Project
+The purpose of this analysis is to analyze the data for a Kickstarter campaign. The client wants to know how different campaigns fared in relation to their launch dates and their funding goals. 
+### Purpose
